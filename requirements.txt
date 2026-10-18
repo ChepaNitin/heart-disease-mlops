@@ -5,3 +5,5 @@ matplotlib==3.11.2
 seaborn==0.13.2
 ipykernel==7.4.0
 ucimlrepo==0.0.7
+mlflow==3.17.1
+joblib==1.6.0

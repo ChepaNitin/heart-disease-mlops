@@ -1,3 +1,17 @@
 # Virtual environment
 .venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated data
 data/
+
+# Generated evaluation artifacts
+artifacts/
+
+# Local MLflow tracking files
+mlflow.db
+mlruns/
+mlartifacts/
