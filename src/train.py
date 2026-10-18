@@ -20,7 +20,6 @@ from sklearn.pipeline import Pipeline
 
 from src.preprocess import create_preprocessor
 
-
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 DATA_PATH = PROJECT_ROOT / "data" / "raw" / "heart_disease.csv"

@@ -7,3 +7,5 @@ ipykernel==7.4.0
 ucimlrepo==0.0.7
 mlflow==3.17.1
 joblib==1.6.0
+pytest==9.1.1
+ruff==0.17.1

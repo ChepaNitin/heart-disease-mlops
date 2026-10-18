@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 RAW_DATA_PATH = PROJECT_ROOT / "data" / "raw" / "heart_disease.csv"

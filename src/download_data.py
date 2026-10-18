@@ -3,7 +3,6 @@ from pathlib import Path
 import pandas as pd
 from ucimlrepo import fetch_ucirepo
 
-
 DATASET_ID = 45
 OUTPUT_PATH = Path("data/raw/heart_disease.csv")
 
